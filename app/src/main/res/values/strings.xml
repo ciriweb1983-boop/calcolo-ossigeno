@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calcolo Ossigeno</string>
+    <string name="volume_label">Volume Bombola (L)</string>
+    <string name="pressure_label">Pressione Attuale (Bar)</string>
+    <string name="pressure_hint">*Verranno sottratti 20 bar di riserva</string>
+    <string name="flow_label">Flusso (L/min)</string>
+    <string name="travel_time_label">Tempo Viaggio Stimato (Minuti)</string>
+    <string name="travel_time_hint">*Verrà aggiunto 1/5 per sicurezza (+20%)</string>
+    <string name="calculate_button">CALCOLA ORA</string>
+    <string name="error_missing_data">Per favore, inserisci tutti i dati</string>
+    <string name="result_autonomia">Autonomia: %1$dh e %2$dmin</string>
+    <string name="result_required">Richiesto: %1$d min</string>
+    <string name="status_possible">✅ VIAGGIO POSSIBILE</string>
+    <string name="status_insufficient">❌ OSSIGENO INSUFFICIENTE</string>
+</resources>
